@@ -19,6 +19,6 @@ let getPlayerRoster = function () {
             number: 47
         }
     ]
-}
+};
 
 module.exports.getPlayerRoster = getPlayerRoster;
